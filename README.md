@@ -2,7 +2,6 @@
 
 # hey, i'm a quiet builder.
 cats · dogs · all the small things / vibe coding · kimi · swimming
-
 **创造与分享，世界才会更美好。**  
 *create and share, the world gets better.*
 ---
