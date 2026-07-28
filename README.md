@@ -10,7 +10,7 @@ cats · dogs · all the small things / vibe coding · kimi · swimming
 - 🏊 喜欢游泳
 - 💻 喜欢 Vibe Coding
 - 🤖 喜欢 Kimi
-- 🌿 比较安静的人
+- 🌿 安静的人
 
 &gt; 安静不是沉默，是在等一个值得分享的瞬间。
 &gt; Quiet is not silence. It's waiting for a moment worth sharing.
