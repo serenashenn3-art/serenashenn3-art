@@ -1,4 +1,4 @@
-# Hi there 👋 i'm a quiet builder.
+# Hi there 👋 I'm a quiet builder.
 
 cats · dogs · all the small things / vibe coding · kimi · swimming
 
