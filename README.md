@@ -13,6 +13,7 @@ cats · dogs · all the small things / vibe coding · kimi · swimming
 - 🌿 安静的人
 
 &gt; 安静不是沉默，是在等一个值得分享的瞬间。
+
 &gt; Quiet is not silence. It's waiting for a moment worth sharing.
 
 <img width="1774" height="887" alt="ChatGPT Image 2026年5月2日 22_59_27" src="https://github.com/user-attachments/assets/52d713a1-3123-4b87-b2de-67a717cd5e64" />
