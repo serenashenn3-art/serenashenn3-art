@@ -1,17 +1,16 @@
 # Hi there 👋 I'm a quiet builder.
 # GitHub will reach 7,000 stars! soon！⭐️
 
-**创造与分享，世界才会更美好。**  
-**create and share, the world gets better.**
+**创造与分享，世界才会更美好。**  **create and share, the world gets better.**
 ---
-### 做过的事👇
+### 做过的事/Things done👇
 #### GitHub：
-- Art-is-everywhere/动物进名画（Animals in Masterpieces）
-- my-wardrobe/我的衣橱（Closet Beautification, Organization, and Matching）
-- wechat-forensic-pro/微信聊天记录取证助手（WeChat Chat Record Forensic Assistant）
+- 🪭 Art-is-everywhere/动物进名画（Animals in Masterpieces）
+- 🛍️ my-wardrobe/我的衣橱（Closet Beautification, Organization, and Matching）
+- 🎓 wechat-forensic-pro/微信聊天记录取证助手（WeChat Chat Record Forensic Assistant）
 
 #### WeChat Mini Program：
-- Release Now（情绪舒缓助手/Emotional Relaxation Assistant)
+- 🏝️ Release Now（情绪舒缓助手/Emotional Relaxation Assistant)
 
 ### about me
 - 🏊 喜欢动物、游泳、Vibe Coding、Kimi
