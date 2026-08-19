@@ -2,7 +2,7 @@
 **GitHub will reach 7,000 stars! soon！⭐️Create and share, and the world gets better.**
 
 ---
-### 做过的事/Things done👇
+#### 做过的事/Things done👇
 #### GitHub：
 - 🪭 Art-is-everywhere/动物进名画（Animals in Masterpieces）
 - 🛍️ my-wardrobe/我的衣橱（Closet Beautification, Organization, and Matching）
@@ -11,7 +11,7 @@
 #### WeChat Mini Program：
 - 🏝️ Release Now（情绪舒缓助手/Emotional Relaxation Assistant)
 
-### about me
+#### About me：
 - 🏊 喜欢动物、游泳、Vibe Coding、Kimi
 - 🌿 安静的人
 
