@@ -12,7 +12,7 @@
 - 🏝️ Release Now（情绪舒缓助手/Emotional Relaxation Assistant)
 
 #### About me：
-- 🏊 喜欢动物、游泳、Vibe Coding、Kimi
+- 🏊 喜欢动物、游泳、Spec Coding、Kimi
 - 🌿 安静的人
 
 love cats · dogs · all the small things / vibe coding · kimi · swimming
