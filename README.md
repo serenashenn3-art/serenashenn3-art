@@ -1,5 +1,5 @@
 # Hi there 👋 I'm a quiet builder.
-# GitHub will reach 7,000 stars! soon！
+# GitHub will reach 7,000 stars! soon！⭐️
 
 **创造与分享，世界才会更美好。**  
 **create and share, the world gets better.**
