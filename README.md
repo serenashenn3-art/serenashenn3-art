@@ -1,4 +1,3 @@
-<img width="1200" height="650" alt="SS_AI_Promo_v3" src="https://github.com/user-attachments/assets/ccfc4343-6002-4ffa-b5fb-f85eeb97e7f7" />
 # Hi there 👋 I'm a quiet builder.
 **GitHub will reach 7,000 stars! soon！⭐️Create and share, and the world gets better.**
 
