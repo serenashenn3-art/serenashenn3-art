@@ -1,3 +1,4 @@
+<img width="1200" height="650" alt="SS_AI_Promo_v3" src="https://github.com/user-attachments/assets/ccfc4343-6002-4ffa-b5fb-f85eeb97e7f7" />
 # Hi there 👋 I'm a quiet builder.
 **GitHub will reach 7,000 stars! soon！⭐️Create and share, and the world gets better.**
 
@@ -18,3 +19,4 @@
 love cats · dogs · all the small things / vibe coding · kimi · swimming
 
 <img width="1774" height="887" alt="ChatGPT Image 2026年5月2日 22_59_27" src="https://github.com/user-attachments/assets/52d713a1-3123-4b87-b2de-67a717cd5e64" />
+<img width="1200" height="650" alt="SS_AI_Promo_v3" src="https://github.com/user-attachments/assets/4db3d369-815b-46f1-9f9f-15d92dd8ea4c" />
